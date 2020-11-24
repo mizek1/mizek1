@@ -3,11 +3,11 @@
   Estou graduando em Análise e Desenvolvimento de Sistemas.
 </p>
 <p align="left">
-  ⛩ Tenho conhecimentos em: 
+  💡 Tenho conhecimentos em: 
   <strong>HTML5, CSS3, JavaScript, React, Bootstrap, Materialize.</strong>
 </p>
 <p align="left">
-  Já pratiquei, mas não tenho conhecimento aprofundado: 
+  🔜 Já pratiquei, mas não tenho conhecimento aprofundado: 
   <strong>C, C#, Java, PHP, MySQL, Postgres, MongoDB.</strong>
 </p>
 <p align="left">
