@@ -1,21 +1,22 @@
 <p align="left">
-  Oi! Meu nome é Danilo. Sou (aspirante a) <strong>desenvolvedor full-stack</strong>.<br>
-  Estou graduando em Análise e Desenvolvimento de Sistemas.
+  🌈 Hi! My name is Danilo Alves and I'm 24 years old.
+  I'm (trying to) be a great developer. I don't really have a preference for back-end or front-end, so I try to study both!
+  I have a degree in Systems Analysis and Development.
 </p>
 <p align="left">
-  💡 Tenho conhecimentos em: 
-  <strong>HTML5, CSS3, JavaScript, React, Bootstrap, Materialize.</strong>
+  💡 Technologies that I usually work with: 
+  <strong>HTML5, CSS3, JavaScript, Node.js, React, Go, Postgresql and MongoDB.</strong>
 </p>
 <p align="left">
-  🔜 Já pratiquei, mas não tenho conhecimento aprofundado: 
-  <strong>C, C#, Java, PHP, MySQL, Postgres, MongoDB.</strong>
+  🔜 I also studied these technologies at graduation: 
+  <strong>C, C#, Java, PHP, MySQL.</strong>
 </p>
 <p align="left">
-  🔧 Ferramentas que uso: 
+  🔧 And I usually use these tools: 
   <strong>VSCode, Git, GitHub, Figma, AdobeXD, Photoshop, Illustrator.</strong>
 </p>
 <p align="left">
-  Meus contatos e redes sociais:
+  Feel free to contact me:
 </p>
 <p align="left">
 <a href="mailto:daniloalves@aluno.fapce.edu.br" alt="Gmail">
