@@ -5,15 +5,15 @@
 </p>
 <p align="left">
   💡 Technologies that I usually work with: 
-  <strong>HTML5, CSS3, JavaScript, Node.js, React, Go, Postgresql and MongoDB.</strong>
+  <strong>HTML5, CSS3, JavaScript, Typescript, Node, Angular, React, Go, Postgresql and MongoDB.</strong>
 </p>
 <p align="left">
   🔜 I also studied these technologies at graduation: 
-  <strong>C, C#, Java, PHP, MySQL.</strong>
+  <strong>C, C#, Java, PHP and MySQL.</strong>
 </p>
 <p align="left">
   🔧 And I usually use these tools: 
-  <strong>VSCode, Git, GitHub, Figma, AdobeXD, Photoshop, Illustrator.</strong>
+  <strong>VSCode, Git, GitHub, Figma, AdobeXD, Photoshop and Illustrator.</strong>
 </p>
 <p align="left">
   Feel free to contact me:
