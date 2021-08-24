@@ -15,9 +15,7 @@
   🔧 And I usually use these tools: 
   <strong>VSCode, Git, GitHub, Figma, AdobeXD, Photoshop and Illustrator.</strong>
 </p>
-<p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizek1&count_private=true&theme=graywhite)
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizek1&count_private=true&theme=graywhite&hide=stars&hide_title=true" />
 <p align="left">
   Feel free to contact me:
 </p>
