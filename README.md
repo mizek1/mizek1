@@ -17,7 +17,7 @@
 </p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mizek1&count_private=true&theme=graywhite&hide=stars&hide_title=true" />
 
-[![mizek1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mizek1)]()
+[![mizek1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mizek1&layout=compact)](#)
 
 <p align="left">
   Feel free to contact me:
