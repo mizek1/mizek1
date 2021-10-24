@@ -1,14 +1,10 @@
-<p align="left">
-  🌈 Hi! My name is Danilo Alves and I'm 24 years old.
-  I'm a front-end developer!
-</p>
+<h1 style="border: none">🌈 Hi! I'm <strong>Danilo Alves</strong>, a front-end developer!</h1>
 
 <a href="https://github.com/mizek1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mizek1&count_private=true&theme=graywhite&hide=stars&hide_title=true" />
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=mizek1&count_private=true&theme=graywhite&hide=stars&hide_title=true" />
+  <img width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizek1&layout=compact&langs_count=8&theme=graywhite&hide_title=true" />
+  <p></p>
 </a>
-<!--<a href="https://github.com/mizek1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizek1&layout=compact&langs_count=8&theme=graywhite&hide_title=true" />
-</a>-->
 <p align="left">
 <a href="mailto:daniloalves@aluno.fapce.edu.br" alt="Gmail">
 <img src="https://img.shields.io/badge/-Gmail-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=daniloalves@aluno.fapce.edu.br" /></a>
