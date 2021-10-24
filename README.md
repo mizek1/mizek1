@@ -1,4 +1,4 @@
-<h1 style="border: none">🌈 Hi! I'm <strong>Danilo Alves</strong>, a front-end developer!</h1>
+<p style="font-size: 22px">🌈 Hi! I'm <strong>Danilo Alves</strong>, a front-end developer!</p>
 
 <a href="https://github.com/mizek1">
   <img width="425px" align="center" src="https://github-readme-stats.vercel.app/api?username=mizek1&count_private=true&theme=graywhite&hide=stars&hide_title=true" />
