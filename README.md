@@ -1,8 +1,8 @@
 <h1 style="border: none">🌈 Hi! I'm <strong>Danilo Alves</strong>, a front-end developer!</h1>
 
 <a href="https://github.com/mizek1">
-  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=mizek1&count_private=true&theme=graywhite&hide=stars&hide_title=true" />
-  <img width="250px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizek1&layout=compact&langs_count=8&theme=graywhite&hide_title=true" />
+  <img width="425px" align="center" src="https://github-readme-stats.vercel.app/api?username=mizek1&count_private=true&theme=graywhite&hide=stars&hide_title=true" />
+  <img width="275px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizek1&layout=compact&langs_count=8&theme=graywhite&hide_title=true" />
   <p></p>
 </a>
 <p align="left">
