@@ -15,4 +15,5 @@
 <a href="https://www.instagram.com/mizekd/" alt="Instagram">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mizekd/"/></a>
 </p>
+<p>As an addicted to music, here is what I'm listening now:</p>
 <a href="https://open.spotify.com/user/mizekx"><img src="https://spotify-github-profile.vercel.app/api/view?uid=mizekx&cover_image=true&theme=natemoo-re&bar_color=5840d4&bar_color_cover=true"/></a>
